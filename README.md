@@ -1,3 +1,15 @@
+## 
+This repo's contents were written almost 4 years ago, in 2023.
+Even though AI tools had just been released and had facilitative capabilities in writing simple, tediously structured code, I have yet to heavily rely on its capcabilities.
+
+I just started learning programming languages and programming in general as a complete beginner.
+
+Therefore, I focused all of my energy, time, effort, and focus on solving the exercises by myself and the textbook contents, thereby generating well-solidified neural pathways for facilitating future understanding of software components.
+
+I have written 95% of the code in this repository. The rest was guided by AI tools, but was not, in any sense, written COMPLETELY by them.
+Thus, I hope you understand, then, why I decided to include such a simple repo in the modern age of AI tools. 
+##
+
 # Java Textbook Programming Solutions
 
 This repository contains a large collection of Java programming exercises and projects, and solutions from the textbook *"Java Software Solutions"* by Lewis & Loftus. The solutions are organized into packages by topic and cover a wide range of fundamental computer science concepts.
