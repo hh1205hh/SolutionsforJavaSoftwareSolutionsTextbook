@@ -1,3 +1,4 @@
+## Project classification - Educational ##
 
 > [!NOTE]
 >This repo's contents were written almost 4 years ago, in 2023.
